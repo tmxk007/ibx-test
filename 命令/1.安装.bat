@@ -1,0 +1,3 @@
+cd ../
+cnpm install
+pause

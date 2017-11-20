@@ -1,0 +1,16 @@
+{
+	"MaterialsExpense":[{
+		"type":"办公用品",
+		"value":500
+	},{
+		"type":"电费",
+		"value":100
+	}],
+	"TravelExpense":[{
+		"type":"火车票",
+		"value":100
+	},{
+		"type":"出租车",
+		"value":50
+	}]
+}
